@@ -1,0 +1,4 @@
+# Para que no se suban cosas privadas o pesadas
+.env
+node_modules
+postgres-data
