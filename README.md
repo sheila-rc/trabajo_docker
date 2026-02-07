@@ -138,9 +138,9 @@ DB_PORT=5432
 docker compose up -d --build
 ```
 3. Abrir en el navegador:
-
+```
 [http://localhost:8080](http://localhost:8080)
-
+```
 ---
 
 ## 6. Comandos útiles
